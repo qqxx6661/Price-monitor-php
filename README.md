@@ -1,14 +1,19 @@
 price-monitor-php
-==========
+-----
 
 # 简介
 **该为旧版本备份，除特殊情况，不再更新。新版采用flask+sqlite+requests，功能更完善**
+
 **新版项目地址：<a href="https://github.com/qqxx6661/flask_yzd">点我</a>**
+
 **核心爬虫代码项目地址：<a href="https://github.com/qqxx6661/price-monitor">点我</a>**
+
 **京东商城商品价格监控，用户自行设置商品和预期价格，低于预期价格后自动发送邮件提醒用户抢购。**
+
 **目前已经开放（新版）测试：访问<a href="http://www.usau-buy.me/">电商监控系统</a>便可体验。**
 
-==========
+
+-----
 
 # 项目依赖
 **1.php**
@@ -21,7 +26,7 @@ price-monitor-php
 - lxml
 - gevent
 
-==========
+-----
 # 使用步骤
 ## 以下步骤为php版搭建步骤
 -----
